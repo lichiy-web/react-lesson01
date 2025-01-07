@@ -13,7 +13,7 @@ export default function App() {
       <Product />
       <Product />
       <Product />
-      <Product />
+      <Alert />
       <Alert />
       <Form />
     </div>
